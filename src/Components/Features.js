@@ -9,7 +9,7 @@ const Features = () => {
         <div className="col-lg-4 col-sm-12 mt-3">
             <div className="card">
                 <div className="image mx-auto" style={{ width:"200px",height:"200px" }}>
-                    <img src="./images/all-natural.png" className="card-img-top w-100 h-100" alt="..."/>
+                    <img src="images/all-natural.png" className="card-img-top w-100 h-100" alt="..."/>
                 </div>
                 <div className="card-body">
                     <h5 className="card-title">Natural Process</h5>
@@ -22,7 +22,7 @@ const Features = () => {
         <div className="col-lg-4 col-sm-12 mt-3">
             <div className="card">
                 <div className="image mx-auto" style={{ width:"200px",height:"200px" }}>
-                    <img src="./images/organic.png" className="card-img-top w-100 h-100" alt="..."/>
+                    <img src="images/organic.png" className="card-img-top w-100 h-100" alt="..."/>
                 </div>
                 <div className="card-body">
                     <h5 className="card-title">Organic Goodness</h5>
@@ -35,7 +35,7 @@ const Features = () => {
         <div className="col-lg-4 col-sm-12 mt-3">
             <div className="card">
                 <div className="image mx-auto" style={{ width:"200px",height:"200px" }}>
-                    <img src="./images/seasonal.png" className="card-img-top w-100 h-100" alt="..."/>
+                    <img src="images/seasonal.png" className="card-img-top w-100 h-100" alt="..."/>
                 </div>
                 <div className="card-body">
                     <h5 className="card-title">Seasonal</h5>
