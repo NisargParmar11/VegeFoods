@@ -13,7 +13,7 @@ const Customer = () => {
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni quos ipsam ab earum cum sed provident neque dolor, beatae molestias.</p>
                     <div className="profile d-flex">
                         <div className="image" style={{ width:"60px",height:"60px" }}>
-                            <img src="./images/user1.jpg" alt="" className="w-100 h-100 rounded-circle"/>
+                            <img src="images/user1.jpg" alt="" className="w-100 h-100 rounded-circle"/>
                         </div>
                         <div className="content ms-3">
                         <h5>Client Name</h5>
@@ -28,7 +28,7 @@ const Customer = () => {
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni quos ipsam ab earum cum sed provident neque dolor, beatae molestias.</p>
                     <div className="profile d-flex">
                         <div className="image" style={{ width:"60px",height:"60px" }}>
-                            <img src="./images/user2.jpg" alt="" className="w-100 h-100 rounded-circle"/>
+                            <img src="images/user2.jpg" alt="" className="w-100 h-100 rounded-circle"/>
                         </div>
                         <div className="content ms-3">
                         <h5>Client Name</h5>
@@ -43,7 +43,7 @@ const Customer = () => {
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni quos ipsam ab earum cum sed provident neque dolor, beatae molestias.</p>
                     <div className="profile d-flex">
                         <div className="image" style={{ width:"60px",height:"60px" }}>
-                            <img src="./images/user3.jpg" alt="" className="w-100 h-100 rounded-circle"/>
+                            <img src="images/user3.jpg" alt="" className="w-100 h-100 rounded-circle"/>
                         </div>
                         <div className="content ms-3">
                         <h5>Client Name</h5>
