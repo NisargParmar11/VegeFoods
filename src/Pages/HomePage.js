@@ -12,7 +12,7 @@ const HomePage = () => {
     <div class="hero-section container-fluid d-flex align-items-center">
         <div class="hero text-white">
             <h1 style={{ fontSize: "4rem;" }}>Natural Food is Always Healthy</h1>
-            <a href="product"><button type="button" class="btn btn-success mt-5 py-3 px-5" style={{ borderRadius: "30px" }}>Products</button></a>
+            <a href="/product"><button type="button" class="btn btn-success mt-5 py-3 px-5" style={{ borderRadius: "30px" }}>Products</button></a>
             <a href="/feature"><button type="button" class="btn btn-primary mt-5 py-3 px-5" style={{ borderRadius: "30px" }}>Features</button></a>
         </div>
     </div>
