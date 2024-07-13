@@ -13,7 +13,7 @@ const Product = (props) => {
                 <div className="col-lg-3 mt-3 ">
                     <div className="card overflow-hidden">
                     <div className="image mx-auto" style={{ width:"200px",height: "200px" }}>
-                        <img src="./images/tomato.png" alt="" className="w-100 h-100"/>
+                        <img src="images/tomato.png" alt="" className="w-100 h-100"/>
                     </div>
                     <h3>Fresh Tomato</h3>
                     <p>$19.00</p>
@@ -31,7 +31,7 @@ const Product = (props) => {
                 <div className="col-lg-3 mt-3 ">
                     <div className="card overflow-hidden">
                     <div className="image mx-auto" style={{ width:"200px",height: "200px" }}>
-                        <img src="./images/chilli.png" alt="" className="w-100 h-100"/>
+                        <img src="images/chilli.png" alt="" className="w-100 h-100"/>
                     </div>
                     <h3>Chilli Pepper</h3>
                     <p>$19.00</p>
@@ -49,7 +49,7 @@ const Product = (props) => {
                 <div className="col-lg-3 mt-3 ">
                     <div className="card overflow-hidden">
                     <div className="image mx-auto" style={{ width:"200px",height: "200px" }}>
-                        <img src="./images/potato.png" alt="" className="w-100 h-100"/>
+                        <img src="images/potato.png" alt="" className="w-100 h-100"/>
                     </div>
                     <h3>Potato</h3>
                     <p>$12.45</p>
@@ -67,7 +67,7 @@ const Product = (props) => {
                 <div className="col-lg-3 mt-3 ">
                     <div className="card overflow-hidden">
                     <div className="image mx-auto" style={{ width:"200px",height: "200px" }}>
-                        <img src="./images/cucumber.png" alt="" className="w-100 h-100"/>
+                        <img src="images/cucumber.png" alt="" className="w-100 h-100"/>
                     </div>
                     <h3>Cucumber</h3>
                     <p>$13.00</p>
